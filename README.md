@@ -12,4 +12,4 @@
 - [Magnus](https://github.com/wahlstrommm)
 - [Betty](https://github.com/bettykroon)
 - [srujana](https://github.com/srujana-edu)
-- [Denturion] (https://github.com/Denturion)
+- [Denturion](https://github.com/Denturion)
