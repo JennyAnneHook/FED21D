@@ -23,3 +23,4 @@
 - [FridaPlanting](https://github.com/fplanting)
 - [David](https://github.com/Denturion)
 - [MikaelaEngborg](https://github.com/Mikaela-e)
+- [Kirill](https://github.com/FuturisticZigZag)
