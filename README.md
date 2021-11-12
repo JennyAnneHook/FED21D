@@ -27,3 +27,4 @@
 - [Reebeecka](https://github.com/Reebeecka)
 - [Nathalie](https://github.com/NathalieJaneP)
 - [HenriettaLybeck](https://github.com/hellohely)
+- [Anton/KodareAnton](https://github.com/kodareAnton)
