@@ -31,3 +31,4 @@
 - [Therese](https://github.com/Eraze86)
 - [Johanna](https://github.com/johanna-almqvist)
 - [tovehydmark](https://github.com/tovehydmark)
+- [Jessika Ljungberg] (https://github.com/jess-works)
