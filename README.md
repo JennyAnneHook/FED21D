@@ -29,3 +29,4 @@
 - [HenriettaLybeck](https://github.com/hellohely)
 - [Anton/KodareAnton](https://github.com/kodareAnton)
 - [Therese](https://github.com/Eraze86)
+- [Johanna](https://github.com/johanna-almqvist)
