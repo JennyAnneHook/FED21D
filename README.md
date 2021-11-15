@@ -31,4 +31,5 @@
 - [Therese](https://github.com/Eraze86)
 - [Johanna](https://github.com/johanna-almqvist)
 - [tovehydmark](https://github.com/tovehydmark)
-- [jessikaljungberg] (https://github.com/jess-works)
+- [NikolaSalamurovic](https://github.com/NikolaSalamurovic)
+- [JessikaLjungberg](https://github.com/jess-works)
