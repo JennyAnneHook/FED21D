@@ -37,3 +37,4 @@
 - [Assar Classon](https://github.com/assarbertil)
 - [John](https://github.com/JohnEliasson)
 - [Casper](https://github.com/CasprDev)
+- [JessikaLjungberg](https://github.com/jess-works)
