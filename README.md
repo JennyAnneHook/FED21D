@@ -32,3 +32,4 @@
 - [Johanna](https://github.com/johanna-almqvist)
 - [tovehydmark](https://github.com/tovehydmark)
 - [NikolaSalamurovic](https://github.com/NikolaSalamurovic)
+- [Louise](https://github.com/lrosenqv)
