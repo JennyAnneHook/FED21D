@@ -39,3 +39,4 @@
 - [Casper](https://github.com/CasprDev)
 - [JessikaLjungberg](https://github.com/jess-works)
 - [Louise](https://github.com/lrosenqv)
+- [Helena](https://github.com/henalena)
