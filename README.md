@@ -36,3 +36,4 @@
 - [Petter](https://github.com/Petterfed)
 - [Assar Classon](https://github.com/assarbertil)
 - [John](https://github.com/JohnEliasson)
+- [Casper](https://github.com/CasprDev)
