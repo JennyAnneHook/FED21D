@@ -32,4 +32,8 @@
 - [Johanna](https://github.com/johanna-almqvist)
 - [tovehydmark](https://github.com/tovehydmark)
 - [NikolaSalamurovic](https://github.com/NikolaSalamurovic)
+- [MatsJönsson](https://github.com/mats363)
+- [Petter](https://github.com/Petterfed)
+- [Assar Classon](https://github.com/assarbertil)
+- [John](https://github.com/JohnEliasson)
 - [Casper](https://github.com/CasprDev)
